@@ -1,0 +1,13 @@
+{
+  "checked_date": "2026-10-12",
+  "standard_relationships": 995,
+  "weapons_with_lists": 17,
+  "primary": "https://mw4.azerpug.com/weapons",
+  "scope": "Community beta data. Final MW4 Warzone compatibility, attachment conflicts and Apex-dependent compatibility remain unverified.",
+  "unresolved_weapons": [
+    "Axion",
+    "Sang 9mm",
+    "Wz. 55 Striga"
+  ],
+  "review_only_rows": 105
+}

@@ -1,0 +1,1 @@
+{"name": "Loadout Roulette", "short_name": "Loadout Roulette", "start_url": "./", "display": "standalone", "background_color": "#101812", "theme_color": "#19241b", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}], "scope": "./"}
